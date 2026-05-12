@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 192 192" width="192" height="192">
+  <!-- Background -->
+  <rect width="192" height="192" fill="#000000" rx="40"/>
+  
+  <!-- Document/README icon -->
+  <g transform="translate(48, 36)">
+    <!-- Paper -->
+    <rect x="8" y="8" width="88" height="120" fill="#0066ff" rx="4"/>
+    
+    <!-- Lines representing text -->
+    <line x1="16" y1="24" x2="88" y2="24" stroke="#ffffff" stroke-width="4" stroke-linecap="round"/>
+    <line x1="16" y1="36" x2="88" y2="36" stroke="#ffffff" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+    <line x1="16" y1="48" x2="72" y2="48" stroke="#ffffff" stroke-width="4" stroke-linecap="round" opacity="0.8"/>
+    
+    <line x1="16" y1="64" x2="88" y2="64" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+    <line x1="16" y1="75" x2="88" y2="75" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+    <line x1="16" y1="86" x2="64" y2="86" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity="0.7"/>
+    
+    <line x1="16" y1="102" x2="88" y2="102" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+    <line x1="16" y1="113" x2="88" y2="113" stroke="#ffffff" stroke-width="3" stroke-linecap="round" opacity="0.6"/>
+  </g>
+  
+  <!-- Star in corner -->
+  <path d="M 140 24 L 144 34 L 154 36 L 147 42 L 149 52 L 140 47 L 131 52 L 133 42 L 126 36 L 136 34 Z" fill="#00cc44"/>
+</svg>
